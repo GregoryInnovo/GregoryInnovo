@@ -23,8 +23,10 @@ I’m a developer who is mainly interested in web technologies, cross-platform a
 
 ### Statistics
 
-![GitHub Stats 1](https://github-readme-stats.vercel.app/api?username=gregoryinnovo&show_icons=true&theme=tokyonight)
-![GitHub Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=gregoryinnovo&theme=tokyonight)
+<p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gregoryinnovo&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gregoryinnovo&theme=tokyonight" />
+</p>
 
 ### In just a touch
 
