@@ -31,5 +31,5 @@ I’m a developer who is mainly interested in web technologies, cross-platform a
 
 ### In just a touch
 
-![Email](https://img.shields.io/badge/Email-282c34?style=for-the-badge&logo=gmail)](mailto:gregoryinnovo@gmail.com)
-![Twitter](https://img.shields.io/badge/Twitter-282c34?style=for-the-badge&logo=twitter)](https://twitter.com/gregoryinnovo)
+[![Email](https://img.shields.io/badge/Email-282c34?style=for-the-badge&logo=gmail)](mailto:gregoryinnovo@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-282c34?style=for-the-badge&logo=twitter)](https://twitter.com/gregoryinnovo)
